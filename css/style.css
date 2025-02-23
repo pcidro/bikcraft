@@ -30,3 +30,7 @@
 
 /* TERMOS */
 @import "./termos/termos.css";
+
+p {
+  margin: 0 !important;
+}
